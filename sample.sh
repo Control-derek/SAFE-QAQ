@@ -1,0 +1,14 @@
+python sample.py \
+    --model_path "/path/to/your/model" \
+    --input_json "/path/to/your/input.json" \
+    --output_json "/path/to/your/output.json" \
+    --batch_size 32 \
+    --num_samples 16 \
+    --temperature 0.8 \
+    --top_p 0.95 \
+    --top_k 50 \
+    --max_tokens 8192 \
+    --max_model_len 8192 \
+    --gpu_memory_utilization 0.95 \
+    --tensor_parallel_size 4 \
+    --skip_preprocessing
