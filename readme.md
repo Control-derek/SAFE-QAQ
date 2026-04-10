@@ -93,3 +93,22 @@ bash run_swift_grpo_stage3.sh
 ## Additional Notes
 - The `prompt.py` file contains the definitions of prompts used during training and real-time inference.
 - Ensure all dependencies are installed as per the [ms-swift](https://github.com/modelscope/ms-swift) documentation before running the scripts.
+
+## Citation
+
+```bibtex
+@inproceedings{ma2025teleantifraud,
+  title={TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection},
+  author={Ma, Zhiming and Wang, Peidong and Huang, Minhua and Wang, Jinpeng and Wu, Kai and Lv, Xiangzhao and Pang, Yachun and Yang, Yin and Tang, Wenjie and Kang, Yuchen},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={5853--5862},
+  year={2025}
+}
+
+@article{wang2026safe,
+  title={SAFE-QAQ: End-to-End Slow-Thinking Audio-Text Fraud Detection via Reinforcement Learning},
+  author={Wang, Peidong and Ma, Zhiming and Dai, Xin and Liu, Yongkang and Feng, Shi and Yang, Xiaocui and Hu, Wenxing and Wang, Zhihao and Pan, Mingjun and Yuan, Li and others},
+  journal={arXiv preprint arXiv:2601.01392},
+  year={2026}
+}
+```
