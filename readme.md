@@ -19,6 +19,12 @@ SAFE-QAQ is an end-to-end framework for audio-text fraud detection that leverage
 
 ---
 
+## News
+
+- **[2026.01]** **SAFE-QAQ** has been accepted by **ACL 2026**.
+
+---
+
 ## Overview
 
 This repository contains the source code for SAFE-QAQ, which consists of three main stages:
