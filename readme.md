@@ -35,7 +35,7 @@ The prompts for both real-time inference and training are defined in `prompt.py`
 - [TeleAntiFraud public dataset on ModelScope](https://www.modelscope.cn/datasets/JimmyMa99/TeleAntiFraud)
 - [TeleAntiFraud main repository](https://github.com/JimmyMa99/TeleAntiFraud)
 
-SAFE-QAQ is trained and evaluated on the TeleAntiFraud audio-text fraud detection dataset. The companion TeleAntiFraud repository contains dataset resources, evaluation utilities, and additional project context.
+SAFE-QAQ uses the TeleAntiFraud audio-text fraud detection dataset. Dataset downloads, benchmark resources, and evaluation utilities are available in the TeleAntiFraud repository linked above.
 
 ---
 
