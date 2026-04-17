@@ -22,7 +22,7 @@ SAFE-QAQ is an end-to-end framework for audio-text fraud detection that leverage
 ## News
 
 - **[2026.04]** We launched the **TeleAntiFraud open-source community** for telecom anti-fraud research: https://teleantifraud.github.io/
-- **[2026.01]** **SAFE-QAQ** has been accepted by **ACL 2026**.
+- **[2026.04]** **SAFE-QAQ** has been accepted by **ACL 2026**.
 
 ---
 
